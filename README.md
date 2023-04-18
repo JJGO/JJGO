@@ -1,4 +1,4 @@
-### Deep Learning Libraries
+### Deep Learning
 
 - 🧬 [UniverSeg](https://github.com/JJGO/UniverSeg) - Universal Medical Image Segmentation Models
 - 🔥 [Hyperlight](https://github.com/JJGO/hyperlight) - Hypernetworks in Pytorch made easy
