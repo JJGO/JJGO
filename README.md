@@ -14,6 +14,18 @@
 - 🎄 [Advent of Code](https://github.com/JJGO/advent-of-code) - Advent of Code Programming Challenges
 - 🕸 [Personal Website](https://github.com/JJGO/jjgo.github.io)
 
+### Great FOSS I extensively use:
+
+- [Neovim](https://github.com/neovim/neovim) - My editor of choice
+- [Syncthing](https://github.com/syncthing/syncthing) -  File Synchronization that works
+- [PyTorch](https://github.com/pytorch/pytorch) - Deep Learning for humans
+- [Redis](https://github.com/redis/redis) & [LMDB](https://github.com/jnwatson/py-lmdb) - Blazingly fast DBs
+- [Pydantic](https://github.com/pydantic/pydantic) & [Typer](https://github.com/tiangolo/typer) - Python validation through type-hints
+- [Wireguard](https://github.com/WireGuard) - Best VPN UX on the market
+- [Ansible](https://github.com/ansible/ansible) & [Docker Compose](https://github.com/docker/compose) - For my IT automation needs
+- [LZ4](https://github.com/lz4/lz4) -  Extremely Fast Compression
+- [Anki](https://github.com/ankitects/anki) - Battle tested spaced repetition
+
 <!--
 **JJGO/JJGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
