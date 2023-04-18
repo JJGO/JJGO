@@ -12,7 +12,6 @@
 - 🖥️ [macOS-setup](https://github.com/JJGO/macOS-setup) - macOS install automation
 - ⌨️ [Missing Semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education
 - 🎄 [Advent of Code](https://github.com/JJGO/advent-of-code) - Advent of Code Programming Challenges
-- 🕸 [Personal Website](https://github.com/JJGO/jjgo.github.io)
 
 ### Great FOSS I extensively use:
 
