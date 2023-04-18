@@ -22,6 +22,7 @@
 - [Pydantic](https://github.com/pydantic/pydantic) & [Typer](https://github.com/tiangolo/typer) - Python validation through type-hints
 - [Wireguard](https://github.com/WireGuard) - Best VPN UX on the market
 - [Ansible](https://github.com/ansible/ansible) & [Docker Compose](https://github.com/docker/compose) - For my IT automation needs
+- [BorgBackup](https://github.com/borgbackup/borg) - Deduplicated, compressed and encrypted backups
 - [LZ4](https://github.com/lz4/lz4) -  Extremely Fast Compression
 - [Anki](https://github.com/ankitects/anki) - Battle tested spaced repetition
 
