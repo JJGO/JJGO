@@ -13,7 +13,7 @@
 - ⌨️ [Missing Semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education
 - 🎄 [Advent of Code](https://github.com/JJGO/advent-of-code) - Advent of Code Programming Challenges
 - 🕸 [Personal Website](https://github.com/JJGO/jjgo.github.io)
-- 
+
 <!--
 **JJGO/JJGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
