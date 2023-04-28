@@ -26,6 +26,7 @@
 - [BorgBackup](https://github.com/borgbackup/borg) - Deduplicated, compressed and encrypted backups
 - [LZ4](https://github.com/lz4/lz4) -  Extremely Fast Compression
 - [Anki](https://github.com/ankitects/anki) - Battle tested spaced repetition
+- [Fira Sans](https://mozilla.github.io/Fira/) & [Fira Mono](https://github.com/tonsky/FiraCode) - Good typography
 
 <!--
 **JJGO/JJGO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
