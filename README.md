@@ -8,7 +8,7 @@
 
 ### Personal
 
-- 🔧 [**Dotfiles**](https://github.com/JJGO/dotfiles) - Personal Configs
+- ⚙️ [**Dotfiles**](https://github.com/JJGO/dotfiles) - Personal Configs
 - 🖥️ [**macOS-setup**](https://github.com/JJGO/macOS-setup) - macOS install automation with Ansible
 - ⌨️ [**Missing Semester**](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education
 - 🎄 [**Advent of Code**](https://github.com/JJGO/advent-of-code) - Advent of Code Programming Challenges
